@@ -1,0 +1,37 @@
+body{
+    background: blue;
+    margin-left: 30px;
+    margin-right: 200px;
+}
+
+nav{
+    color: white;
+}
+
+header{
+    margin-top: 60px;
+}
+
+h1{
+    color: greenyellow;
+    font-family: fantasy;
+}
+
+h2{
+    color: greenyellow;
+    font-family: fantasy;
+}
+
+p{
+    font-size: 16px;
+    color: white;
+}
+
+a{
+    color: white;
+}
+
+.img-padrao {
+    margin-bottom: 20px;
+    width: 300px;
+}
